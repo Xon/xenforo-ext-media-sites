@@ -53,6 +53,9 @@ class AddonBuilder
 		$this->sites         = iterator_to_array($this->configurator->MediaEmbed->defaultSites);
 		$this->xfTranspiler  = new XenForoTemplate;
 
+		// Disable PeerTube until we can configure the hosts
+		unset($this->sites['peertube']);
+
 		$this->configurator->templateNormalizer->add(new RemoveDefaultStyle);
 		$this->configurator->templateNormalizer->add(new RemoveLazyLoading);
 		$this->configurator->templateNormalizer->add(new ReplaceThemeSelector);
