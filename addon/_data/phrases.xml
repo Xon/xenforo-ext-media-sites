@@ -55,6 +55,7 @@
   <phrase title="cookie_consent.third_party_description_livestream" version_id="2150600" version_string="2.15.6"><![CDATA[These cookies are set by Livestream, and may be used for displaying embedded content.]]></phrase>
   <phrase title="cookie_consent.third_party_description_mailru" version_id="2150600" version_string="2.15.6"><![CDATA[These cookies are set by Mail.Ru, and may be used for displaying embedded content.]]></phrase>
   <phrase title="cookie_consent.third_party_description_mastodon" version_id="2150600" version_string="2.15.6"><![CDATA[These cookies are set by Mastodon, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_medal" version_id="2190100" version_string="2.19.1"><![CDATA[These cookies are set by Medal, and may be used for displaying embedded content.]]></phrase>
   <phrase title="cookie_consent.third_party_description_medium" version_id="2150600" version_string="2.15.6"><![CDATA[These cookies are set by Medium, and may be used for displaying embedded content.]]></phrase>
   <phrase title="cookie_consent.third_party_description_megaphone" version_id="2150600" version_string="2.15.6"><![CDATA[These cookies are set by Megaphone, and may be used for displaying embedded content.]]></phrase>
   <phrase title="cookie_consent.third_party_description_metacafe" version_id="2150600" version_string="2.15.6"><![CDATA[These cookies are set by Metacafe, and may be used for displaying embedded content.]]></phrase>
@@ -173,6 +174,7 @@
   <phrase title="cookie_consent.third_party_label_livestream" version_id="2150600" version_string="2.15.6"><![CDATA[Livestream]]></phrase>
   <phrase title="cookie_consent.third_party_label_mailru" version_id="2150600" version_string="2.15.6"><![CDATA[Mail.Ru]]></phrase>
   <phrase title="cookie_consent.third_party_label_mastodon" version_id="2150600" version_string="2.15.6"><![CDATA[Mastodon]]></phrase>
+  <phrase title="cookie_consent.third_party_label_medal" version_id="2190100" version_string="2.19.1"><![CDATA[Medal]]></phrase>
   <phrase title="cookie_consent.third_party_label_medium" version_id="2150600" version_string="2.15.6"><![CDATA[Medium]]></phrase>
   <phrase title="cookie_consent.third_party_label_megaphone" version_id="2150600" version_string="2.15.6"><![CDATA[Megaphone]]></phrase>
   <phrase title="cookie_consent.third_party_label_metacafe" version_id="2150600" version_string="2.15.6"><![CDATA[Metacafe]]></phrase>
